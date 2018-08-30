@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-  if Apple = /[aeiou]/
+  if Apple =/[aeiou]/
     return true
   end
 end
