@@ -26,7 +26,8 @@ if text.match(/^[A-Z].+[\.!?]$/) then
 else
   return false
 end
-end	end
+end
+
 def valid_phone_number?(phone)
 
 end
